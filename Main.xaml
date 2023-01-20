@@ -170,6 +170,6 @@
         </ui:ExcelApplicationScope.Body>
       </ui:ExcelApplicationScope>
     </Sequence>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="メッセージ ボックス" sap:VirtualizedContainerService.HintSize="496,86" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;ないな&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="メッセージ ボックス" sap:VirtualizedContainerService.HintSize="496,86" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;なくていいのか&quot;]" />
   </Sequence>
 </Activity>
